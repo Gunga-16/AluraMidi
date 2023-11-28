@@ -5,7 +5,7 @@ function tocaSons () {
     if (listaDeTeclas[0].onclick = true) {
         document.querySelector('#som_tecla_pom').play();
     } 
-    else if (listaDeTeclas[1].onclick = true) {
+    if (listaDeTeclas[1].onclick = true) {
         document.querySelector('#som_tecla_clap').play();
     }
     
